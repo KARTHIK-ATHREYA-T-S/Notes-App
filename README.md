@@ -65,15 +65,15 @@ A simple and intuitive Notes App built using HTML, CSS, and JavaScript. This app
 
 To get started with the app, simply clone this repository and open the `index.html` file in your web browser.
 
-    ```bash
-    git clone https://github.com/your-username/note-management-app.git
-    ```
-    ```
-    cd note-management-app
-    ```
-    ```
-    open index.html
-    ```
+ ```bash
+ git clone https://github.com/your-username/note-management-app.git
+ ```
+ ```
+ cd note-management-app
+ ```
+ ```
+ open index.html
+ ```
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
    
